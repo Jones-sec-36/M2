@@ -34,10 +34,8 @@ int main()
 
 
 ## OUTPUT:
-Enter the starting value M: 3      
-Enter the ending value N: 10    
-Even numbers from 3 to 10 are:  
-4 6 8 10
+![image](https://github.com/user-attachments/assets/1bf847cf-72b8-46e7-84cd-d9073d542feb)
+
 
 
 
@@ -90,12 +88,8 @@ int main() {
 
 
 ## OUTPUT:
-Enter number of rows: 5     
-*          
-* *      
-* * *     
-* * * *    
-* * * * *
+![image](https://github.com/user-attachments/assets/26f2e676-01c7-4690-9860-5d95e77ec3b0)
+
 
 ## RESULT:
 
@@ -144,10 +138,8 @@ int main() {
 
 ## OUTPUT:
 
-Enter first number: 20    
-Enter second number: 5   
-Addition = 25            
-Subtraction = 15    
+![image](https://github.com/user-attachments/assets/c587d294-a5a7-47ba-b69c-fe68757f1635)
+
 
 ## RESULT:
 
@@ -196,8 +188,8 @@ int main() {
 
 ## OUTPUT:
 
-Enter a number: 123456
-Sum of odd digits = 9
+![image](https://github.com/user-attachments/assets/65175c7d-d923-4deb-abf0-9f0069441d93)
+
 
 
 
@@ -248,8 +240,8 @@ int main() {
 ```
 
 ## OUTPUT:
-Enter a number: 5
-Factorial of 5 = 120
+![image](https://github.com/user-attachments/assets/93347e9c-a5ba-4030-9328-cc19706f9a30)
+
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
